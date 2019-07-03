@@ -1,0 +1,16 @@
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\bin\Release\BatExpert.exe
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\bin\Release\BatExpert.pdb
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\bin\Release\BatExpert.xml
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\bin\Release\Interop.AcroPDFLib.dll
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\bin\Release\AxInterop.AcroPDFLib.dll
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\Interop.AcroPDFLib.dll
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\AxInterop.AcroPDFLib.dll
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.ResolveComReference.cache
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\BatExpert.batexpert.resources
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\BatExpert.Resources.resources
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\BatExpert.exe
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\BatExpert.xml
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\BatExpert.pdb
+E:\Docs\VisualStudio_project\WindowsApplication2\WindowsApplication2\obj\Release\BatExpert.AboutBox.resources

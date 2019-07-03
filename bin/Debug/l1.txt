@@ -1,0 +1,155 @@
+ 
+Log File 
+ 
+User : ss 
+Sat 01/17/2015 
+02:02 PM
+ 
+Process Ran by ss 
+ 
+ USERNAME              SESSIONNAME         ID    PID  IMAGE
+>ss                    console              1   2588  taskhost.exe
+>ss                    console              1   2632  dwm.exe
+>ss                    console              1   2680  explorer.exe
+>ss                    console              1   3008  integrator.exe
+>ss                    console              1   3140  igfxtray.exe
+>ss                    console              1   3148  hkcmd.exe
+>ss                    console              1   3192  avastui.exe
+>ss                    console              1   3208  igfxsrvc.exe
+>ss                    console              1   3236  hyservice.exe
+>ss                    console              1   3308  pfgui.exe
+>ss                    console              1   3352  igfxpers.exe
+>ss                    console              1   3388  vcddaemon.exe
+>ss                    console              1   3456  dfx.exe
+>ss                    console              1   3496  sidebar.exe
+>ss                    console              1   3572  sbiectrl.exe
+>ss                    console              1   3628  eagleget.exe
+>ss                    console              1   3676  abyssws.exe
+>ss                    console              1   3724  abyssws.exe
+>ss                    console              1   3888  dfxsharedapp...
+>ss                    console              1   3900  dfxitunesson...
+>ss                    console              1   2924  nlclientapp.exe
+>ss                    console              1   4100  vbexpress.exe
+>ss                    console              1   5100  acrord32.exe
+>ss                    console              1   2136  batexpert.vs...
+>ss                    console              1   3800  cmd.exe
+>ss                    console              1   3916  conhost.exe
+>ss                    console              1   3340  qprocess.exe
+ 
+Network Activities 
+
+IPv4 Statistics
+
+  Packets Received                   = 0
+  Received Header Errors             = 0
+  Received Address Errors            = 0
+  Datagrams Forwarded                = 0
+  Unknown Protocols Received         = 0
+  Received Packets Discarded         = 0
+  Received Packets Delivered         = 50
+  Output Requests                    = 58
+  Routing Discards                   = 0
+  Discarded Output Packets           = 0
+  Output Packet No Route             = 0
+  Reassembly Required                = 0
+  Reassembly Successful              = 0
+  Reassembly Failures                = 0
+  Datagrams Successfully Fragmented  = 0
+  Datagrams Failing Fragmentation    = 0
+  Fragments Created                  = 0
+
+IPv6 Statistics
+
+  Packets Received                   = 0
+  Received Header Errors             = 0
+  Received Address Errors            = 0
+  Datagrams Forwarded                = 0
+  Unknown Protocols Received         = 0
+  Received Packets Discarded         = 0
+  Received Packets Delivered         = 1068
+  Output Requests                    = 1121
+  Routing Discards                   = 0
+  Discarded Output Packets           = 0
+  Output Packet No Route             = 0
+  Reassembly Required                = 0
+  Reassembly Successful              = 0
+  Reassembly Failures                = 0
+  Datagrams Successfully Fragmented  = 0
+  Datagrams Failing Fragmentation    = 0
+  Fragments Created                  = 0
+
+ICMPv4 Statistics
+
+                            Received    Sent
+  Messages                  0           0         
+  Errors                    0           0         
+  Destination Unreachable   0           0         
+  Time Exceeded             0           0         
+  Parameter Problems        0           0         
+  Source Quenches           0           0         
+  Redirects                 0           0         
+  Echo Replies              0           0         
+  Echos                     0           0         
+  Timestamps                0           0         
+  Timestamp Replies         0           0         
+  Address Masks             0           0         
+  Address Mask Replies      0           0         
+  Router Solicitations      0           0         
+  Router Advertisements     0           0         
+
+ICMPv6 Statistics
+
+                            Received    Sent
+  Messages                  0           11        
+  Errors                    0           0         
+  Destination Unreachable   0           0         
+  Packet Too Big            0           0         
+  Time Exceeded             0           0         
+  Parameter Problems        0           0         
+  Echos                     0           0         
+  Echo Replies              0           0         
+  MLD Queries               0           0         
+  MLD Reports               0           0         
+  MLD Dones                 0           0         
+  Router Solicitations      0           9         
+  Router Advertisements     0           0         
+  Neighbor Solicitations    0           2         
+  Neighbor Advertisements   0           0         
+  Redirects                 0           0         
+  Router Renumberings       0           0         
+
+TCP Statistics for IPv4
+
+  Active Opens                        = 0
+  Passive Opens                       = 0
+  Failed Connection Attempts          = 0
+  Reset Connections                   = 0
+  Current Connections                 = 0
+  Segments Received                   = 0
+  Segments Sent                       = 0
+  Segments Retransmitted              = 0
+
+TCP Statistics for IPv6
+
+  Active Opens                        = 4
+  Passive Opens                       = 4
+  Failed Connection Attempts          = 0
+  Reset Connections                   = 8
+  Current Connections                 = 0
+  Segments Received                   = 1060
+  Segments Sent                       = 1060
+  Segments Retransmitted              = 0
+
+UDP Statistics for IPv4
+
+  Datagrams Received    = 38
+  No Ports              = 0
+  Receive Errors        = 0
+  Datagrams Sent        = 50
+
+UDP Statistics for IPv6
+
+  Datagrams Received    = 2
+  No Ports              = 0
+  Receive Errors        = 0
+  Datagrams Sent        = 35
