@@ -1,7 +1,6 @@
 # BatExpert
 ### Written using VisualBasic.NET
 
-> #### Project Description:
-
+> __Project Description:__
 >A batch file editor including lots of fun scripts. Supports multiple files at once.
 >Create simple batch scripts and prank friends.
