@@ -1,6 +1,8 @@
 # BatExpert   
 ### Written using VisualBasic.NET
 
+####I wrote this few years back, since then I am no more working on dotNET
+
 > __Project Description:__
 >
 >A batch file editor which comes with many preloaded fun scripts. No need to memorize syntaxes anymore. Supports multiple files at once.
