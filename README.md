@@ -1,5 +1,9 @@
 # BatExpert   
+
+![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
+
 ### Written using VisualBasic.NET
+
 
 #### I wrote this few years back, since then I am no more working on dotNET
 
