@@ -13,7 +13,8 @@
 >Even if you don't know ABC of scripting, you can create some simple scripts or have fun with scripts already present in the program.
 >Create pranks or some useful scripts and compile them to EXE file. So just download and try it out.
 
-<img width='40%' src='http://darkstars.coffeecup.com/react/batEx.jpg'></img>
+<br>
+<img width='40%' src='http://darkstars.coffeecup.com/react/batExp.jpg'></img>
 
 
 >Click [here](http://darkstars.coffeecup.com) to visit official page
