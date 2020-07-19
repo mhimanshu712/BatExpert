@@ -14,7 +14,7 @@
 >Create pranks or some useful scripts and compile them to EXE file. So just download and try it out.
 
 <br>
-<img width='40%' src='http://darkstars.coffeecup.com/react/batExp.jpg'></img>
+<img width='50%' src='http://darkstars.coffeecup.com/react/batExp.jpg'></img>
 
 
 >Click [here](http://darkstars.coffeecup.com) to visit official page
